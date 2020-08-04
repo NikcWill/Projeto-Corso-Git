@@ -1,2 +1,5 @@
 # Projeto-Corso-Git
-Projeto teste
+
+Projeito de primeiro contato com GITHUB
+
+curso feito Digital innovation.
